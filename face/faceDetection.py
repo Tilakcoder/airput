@@ -223,7 +223,8 @@ while (True):
     annotated_image = draw_landmarks_on_image(f.numpy_view(), detection_result)
     cv2.imshow('frame', annotated_image2)
     randc += 1
-    if randc%100 == 0:
+    if randc%20 == 0:
+        # pass
         ss = pyautogui.size()
         pyautogui.moveTo(random.random()*ss.width, random.random()*ss.height)
         time.sleep(3)
@@ -236,4 +237,4 @@ while (True):
 
 # After the loop release the cap object
 vid.release()
-df.to_csv("dataset2.csv")
+df.to_csv("dataset7.csv")
