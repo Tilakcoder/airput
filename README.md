@@ -7,6 +7,7 @@ Airput is a visionary project conceived during a high-energy hackathon, with the
 Due to some technical issues with LFS during the hackathon, certain essential files couldn't be uploaded to GitHub. Not to worry though! We've made them available in the cloud. Access them [on Gooogle Drive](https://drive.google.com/drive/folders/1tt3LSySjwovw0bLpRggGepRvA-KKxYiO?usp=sharing).
 
 And here is our presentation on [Canva](https://www.canva.com/design/DAFvrkbkIL0/ZQPKm_uGB4Y0q7n-VTXx1g/edit?utm_content=DAFvrkbkIL0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Wanna know how it works.[Youtube](https://youtu.be/zImep1WYD2M)
 
 ## Join Us in Shaping the Future
 
