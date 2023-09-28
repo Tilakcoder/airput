@@ -1,0 +1,6 @@
+cv2
+numpy
+dlib
+matplotlib
+math
+torch
